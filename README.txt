@@ -1,4 +1,4 @@
-Karnataka Lok Sabha Online Voting System
+Government Election Voting System
 
 1. Import database.sql to MySQL.
 2. Place the folder in htdocs.
